@@ -30,4 +30,6 @@ Legal Research – For lawyers, students, and firms.
 Contract Review – Businesses and freelancers.
 Personal Legal Advice – Individuals seeking legal guidance.
 Court Case Analysis – Predicting legal outcomes.
+
+
 ⚖️ Note: AI Lawyer Bot does not replace professional legal counsel but assists in legal research and document analysis.
